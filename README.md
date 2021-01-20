@@ -1,2 +1,0 @@
-# PiceSoftware
-Proyecto de Bus
